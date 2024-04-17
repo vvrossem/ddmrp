@@ -16,6 +16,7 @@ setuptools.setup(
         'odoo-addon-ddmrp_exclude_moves_adu_calc_sales>=16.0dev,<16.1dev',
         'odoo-addon-ddmrp_history>=16.0dev,<16.1dev',
         'odoo-addon-ddmrp_product_replace>=16.0dev,<16.1dev',
+        'odoo-addon-ddmrp_report_part_flow_index>=16.0dev,<16.1dev',
         'odoo-addon-ddmrp_sale>=16.0dev,<16.1dev',
         'odoo-addon-ddmrp_warning>=16.0dev,<16.1dev',
         'odoo-addon-stock_buffer_route>=16.0dev,<16.1dev',
