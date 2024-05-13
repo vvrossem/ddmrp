@@ -17,6 +17,7 @@ setuptools.setup(
         'odoo-addon-ddmrp_history>=15.0dev,<15.1dev',
         'odoo-addon-ddmrp_packaging>=15.0dev,<15.1dev',
         'odoo-addon-ddmrp_product_replace>=15.0dev,<15.1dev',
+        'odoo-addon-ddmrp_report_part_flow_index>=15.0dev,<15.1dev',
         'odoo-addon-ddmrp_warning>=15.0dev,<15.1dev',
         'odoo-addon-stock_buffer_capacity_limit>=15.0dev,<15.1dev',
         'odoo-addon-stock_buffer_route>=15.0dev,<15.1dev',
